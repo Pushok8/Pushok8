@@ -16,4 +16,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-252525?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/dmitry-p-557b881b4/)
 [![Telegram](https://img.shields.io/badge/Telegram-252525?style=for-the-badge&logo=telegram)](https://t.me/Gavin_Dancer)
 
+## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pushok8&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
