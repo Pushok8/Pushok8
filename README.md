@@ -14,6 +14,7 @@
 [![VK](https://img.shields.io/badge/vk-252525?style=for-the-badge&logo=vk)](https://vk.com/np2147)
 [![Twitter](https://img.shields.io/badge/twitter-252525?style=for-the-badge&logo=twitter)](https://twitter.com/Pushisto8)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-252525?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/dmitry-p-557b881b4/)
+[![Reddit](https://img.shields.io/badge/Reddit-252525?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/Pushok8)
 [![Telegram](https://img.shields.io/badge/Telegram-252525?style=for-the-badge&logo=telegram)](https://t.me/Gavin_Dancer)
 [![Spotify](https://img.shields.io/badge/Spotify-252525?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/g7ofzlaixk0tc7nkn604eziau)
 ## Stats
