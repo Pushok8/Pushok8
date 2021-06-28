@@ -1,6 +1,6 @@
 ![Pushok8](/img/pushok_banner.png "Pushok8")
 # Python Back-end developer
-My summary: pushok8.github.io/summary
+[My summary](https://pushok8.github.io/summary)
 ## Skils:
 ![Python](https://img.shields.io/badge/Python-252525?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-252525?style=for-the-badge&logo=django&logoColor=104c34)
